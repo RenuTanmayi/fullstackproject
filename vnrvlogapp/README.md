@@ -1,10 +1,19 @@
-Project Overview:
-This platform enables seamless interaction between users, authors, and administrators, fostering a dynamic content-sharing environment.
+Project Overview
+A dynamic platform that enables seamless content creation, discussion, and moderation. Designed to connect authors, users, and administrators, it fosters an engaging space for sharing ideas, insights, and meaningful discussions.
 
-Key Roles & Features:
+Key Features
+For Authors 📖
 
-Authors – Create, edit, and manage their own articles, contributing valuable insights and discussions.
+Create, edit, and publish articles.
+Manage personal content and engage with readers.
+Encourage thought-provoking discussions.
+For Users 💬
 
-Users – Engage with content by adding comments, fostering discussions, and sharing perspectives.
+Explore and engage with diverse content.
+Comment on articles, share perspectives, and participate in discussions.
+Stay updated with trending topics and new posts.
+For Admins 🛠️
 
-Admin – The ultimate authority, overseeing user management, content moderation, and maintaining platform integrity.
+Monitor user activity and ensure a safe environment.
+Moderate content to maintain quality and relevance.
+Manage users and handle reports or violations.
